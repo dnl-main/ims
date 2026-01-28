@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/api/health", (req: Request, res: Response) => {
-  res.json({ status: "ok", message: "Backend running with TS 🚀" });
+  res.json({ status: "ok", message: "Backend running with Typescript" });
 });
 
 app.listen(PORT, () => {
