@@ -1,0 +1,16 @@
+
+.sidebar-logo {
+    font-size: large;
+    font-weight: 700;
+    color: #00889A;
+}
+
+.profile-color {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    border-radius: 50%;
+    color: white;
+    margin: 1vh;
+}
