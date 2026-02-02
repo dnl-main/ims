@@ -72,7 +72,7 @@ export function SidebarItem({ icon, text, active = false, alert = false  }: Side
         <li className={`
             relative flex items-center py-2 px-3 my-1
             font-medium rounded-md cursor-pointer
-            transition-colors
+            transition-colors group
             ${
                 active
                  ? "bg-gradient-to-tr from-teal-200 to-teal-100 text-teal-800"

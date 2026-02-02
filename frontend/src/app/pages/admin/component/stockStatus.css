@@ -1,0 +1,15 @@
+.card-title {
+    color: rgb(87, 86, 86);
+    font-size: 13px;
+}
+
+.status-good {
+    color: green;
+    background: rgb(173, 255, 47, 0.5);
+    
+}
+
+.status-bad {
+    color: red;
+    background: rgb(237, 135, 135, 0.5);
+}

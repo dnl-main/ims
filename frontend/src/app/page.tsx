@@ -83,7 +83,7 @@ export default function Home() {
             />
           </Sidebar>
         </div>
-        <div className="main-content">
+        <div className="main-content w-full">
           <AdminDashboard/>
         </div>
       </div>

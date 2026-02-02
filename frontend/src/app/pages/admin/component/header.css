@@ -1,0 +1,13 @@
+.header-container {
+    display: flex;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 30px;
+    color: #00889a;
+}
+
+.searchBtn {
+    color: #00889a;
+}
